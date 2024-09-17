@@ -11,3 +11,4 @@ Have a nice sunday for a special delivery of disagreement.
 A barrier is a virtual wall. Walls are paths that are never taken. By defining a goal we implicitly create barriers and a meta emerges.
 >>>>>>> Stashed changes
 A beautiful song in a forest can only be heard by those who know what trees are.
+Serial killers go beyond barriers to collect dead words. Puppets of a stronger force.
