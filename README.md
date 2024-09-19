@@ -12,3 +12,5 @@ A barrier is a virtual wall. Walls are paths that are never taken. By defining a
 >>>>>>> Stashed changes
 A beautiful song in a forest can only be heard by those who know what trees are.
 Serial killers go beyond barriers to collect dead words. Puppets of a stronger force.
+
+Only know you closed all your eyes when cannot see.
