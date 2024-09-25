@@ -10,6 +10,7 @@ Have a nice sunday for a special delivery of disagreement.
 
 A barrier is a virtual wall. Walls are paths that are never taken. By defining a goal we implicitly create barriers and a meta emerges.
 Respect is a path that matches the path taken by the respected. This implies the need for a prediction to select the correct path. Empathy is a model to make such a prediction.
+Abstract models are useful for barrier identification.
 >>>>>>> Stashed changes
 A beautiful song in a forest can only be heard by those who know what trees are.
 Death makes any path a tautology and birth determines a set of barriers.
