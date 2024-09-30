@@ -23,3 +23,6 @@ Proof for own thought eventually happening:
 Let A be a non-projection Matrix, then forall x there is i, s.t. xA^i=[normalized ones vector]
 War.
 An engineer is always at war.
+
+5 types of meanings: AAA ("leader"), AAB ("analyst"), ABA ("silence"), ABB ("student"), ABC ("permission")
+Events (the middle letter) are totalitarism, as they distinguish between AA and AB.
