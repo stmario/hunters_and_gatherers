@@ -18,6 +18,8 @@ Serial killers go beyond barriers to collect dead words. Puppets of a stronger f
 
 Only know you closed all your eyes when you cannot see.
 
+The song that's always playing can only be heard if you shut your ears for a brief moment. It might be about the whole context that cannot be changed by a single human being and therefore requires adaption.
+
 A condom for the brain is a paris convention to keep a thought to yourself if it was your own. This happens eventually and presumably this is when all reasons are equiprobable. This requires model inversion for thinking to analyze the reasons for a thought.
 Proof for own thought eventually happening:
 Let A be a non-projection Matrix, then forall x there is i, s.t. xA^i=[normalized ones vector]
