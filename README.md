@@ -26,3 +26,5 @@ An engineer is always at war.
 
 5 types of meanings: AAA ("leader"), AAB ("analyst"), ABA ("silence"), ABB ("student"), ABC ("permission")
 Events (the middle letter) are totalitarism, as they distinguish between AA and AB.
+A woman called Sybil has an infinite number of children. A network makes an offer and demands a proof for adherence to protocol. The child takes the risk and learns the behaviour of the network, because it does not want to stay in a hostile network.
+If the events suddenly start turning against the child, the network suffers from a sleeper attack (an unannounced protocol update). The network splits into conservatives and progressivists. After some time a new agreement will be reached, possibly with two networks coexisting.
