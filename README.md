@@ -15,6 +15,7 @@ Abstract models are useful for barrier identification.
 A beautiful song in a forest can only be heard by those who know what trees are.
 Death makes any path a tautology and birth determines a set of barriers.
 Serial killers go beyond barriers to collect dead words. Puppets of a stronger force.
+Law enforcement builds walls.
 
 Only know you closed all your eyes when you cannot see.
 
