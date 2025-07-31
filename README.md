@@ -23,7 +23,7 @@ The song that's always playing can only be heard if you shut your ears for a bri
 
 A condom for the brain is a paris convention to keep a thought to yourself if it was your own. This happens eventually and presumably this is when all reasons are equiprobable. This requires model inversion for thinking to analyze the reasons for a thought.
 Proof for own thought eventually happening:
-Let A be a non-projection Matrix, then forall x there is i, s.t. xA^i=[normalized ones vector]
+Let A be a non-projection Matrix, then forall x there is i, s.t. xA^i=[normalized ones vector] The seventh bit in a sequence is truly random and proves that humans can make unbiased own thoughts, setting them free in their decision making.
 War.
 An engineer is always at war.
 A Geneva convention is to always reply to input with output of comparable gravity.
